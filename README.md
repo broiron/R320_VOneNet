@@ -5,6 +5,19 @@ Yann LeCun's MNIST datasets are used.
 
 We're inspired by this [tutorial](https://www.pyimagesearch.com/2021/03/08/defending-against-adversarial-image-attacks-with-keras-and-tensorflow/).
 
+## 2023 ICIIT conference paper
+
+Paper "A Study on the Optimization of the CNNs for Adversarial Attacks" got accepted to ICIIT 2023 conference wrote by Hyeongcheol Park, Jongweon Kim.
+
+Conference proceeding is not now available(still publishing) but you can see the original paper down below.
+
+<object data="https://github.com/broiron/R320_VOneNet/blob/main/report/ICIIT_A_Study_on_the_Optimization_of_the_CNNs_for_Adversarial_Attacks.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/broiron/R320_VOneNet/blob/main/report/ICIIT_A_Study_on_the_Optimization_of_the_CNNs_for_Adversarial_Attacks.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/broiron/R320_VOneNet/blob/main/report/ICIIT_A_Study_on_the_Optimization_of_the_CNNs_for_Adversarial_Attacks.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 ## Fine-tune modeling
 1. train model with original MNIST datasets (learning rate == 0.001)<br>
 2. get adversarial images of MNIST from trained model<br>
@@ -47,6 +60,8 @@ MIT License
 | 1-layer-linear-classifier | really simple model                                     |
 | 3-layer-linear-classifier | add two layer to 1-layer simple model                   |
 | Convnet                   | simple convolutional model                              |
+
+
 
 ## Report
 <object data="https://github.com/comeeasy/FGSM_MNIST/blob/main/VOneNet-FGSM-report.pdf" type="application/pdf" width="700px" height="700px">
