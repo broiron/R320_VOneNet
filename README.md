@@ -5,9 +5,9 @@ Yann LeCun's MNIST datasets are used.
 
 We're inspired by this [tutorial](https://www.pyimagesearch.com/2021/03/08/defending-against-adversarial-image-attacks-with-keras-and-tensorflow/).
 
-## 2023 ICIIT conference paper
+## ACM 2023 ICIIT conference paper
 
-Paper "A Study on the Optimization of the CNNs for Adversarial Attacks" got accepted to ICIIT 2023 conference wrote by Hyeongcheol Park, Jongweon Kim.
+Paper "A Study on the Optimization of the CNNs for Adversarial Attacks" got accepted to ACM 2023 ICIIT conference wrote by Hyeongcheol Park, Jongweon Kim.
 
 Conference proceeding is not now available(still publishing) but you can see the original paper down below.
 
